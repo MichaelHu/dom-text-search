@@ -29,7 +29,7 @@
   "homepage": "https://github.com/MichaelHu/dom-text-search#readme",
   "dependencies": {
     "animate.css": "^3.6.1",
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
