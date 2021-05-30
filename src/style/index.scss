@@ -62,3 +62,8 @@
     color: #ffbb78;
 }
 
+@media print {
+    .content-search-info {
+        display: none;
+    }
+}
